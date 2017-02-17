@@ -19,6 +19,7 @@ Vous trouverez ci-dessous la liste des exercices, **dans l'ordre du cours**.
 > **NOTE :** nous sommes en train de réorganiser le contenu du cours. L'ordre des exercices est susceptible de changer.
 
 1. [css-minute](https://github.com/hepl-cpw/css-minute)
+1. [css-spotify](https://github.com/hepl-cpw/css-spotify) 
 1. [css-popking](https://github.com/hepl-cpw/css-popking)
 1. [css-bwatlet](https://github.com/hepl-cpw/css-bwatlet)
 1. [css-fwi](https://github.com/hepl-cpw/css-fwi)
