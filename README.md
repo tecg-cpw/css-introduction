@@ -35,4 +35,4 @@ Vous trouverez ci-dessous la liste des exercices pour les TPs de CSS, **dans lâ€
 1. [css-rubber](https://github.com/hepl-cpw/css-rubber)
 1. [css-psetiquette](https://github.com/hepl-cpw/css-psetiquette)
 1. [css-perth](https://github.com/hepl-cpw/css-perth)
-1. [css-photo-site](https://github.com/hepl-cpw/photo-site)
+1. [css-photo-site](https://github.com/hepl-cpw/css-photo-site)
