@@ -21,7 +21,9 @@ Vous trouverez ci-dessous la liste des exercices pour les TPs de CSS, **dans l�
 > **NOTE :** nous sommes en train de réorganiser le contenu du cours. L’ordre des exercices est susceptible de changer.
 
 1. [css-minute](https://github.com/hepl-cpw/css-minute)
+1. [css-box-model](https://github.com/tecg-cpw/css-box-model)
 1. [css-apple](https://github.com/hepl-cpw/css-apple)
+1. [css-apple-mobile](https://github.com/tecg-cpw/css-apple-mobile)
 1. [css-happyvalentine](https://github.com/hepl-cpw/css-happyvalentine)
 1. [css-kod](https://github.com/hepl-cpw/css-kod)
 1. [css-sebio](https://github.com/hepl-cpw/css-sebio) 
