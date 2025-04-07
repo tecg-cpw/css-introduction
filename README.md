@@ -28,6 +28,7 @@ Vous trouverez ci-dessous la liste des exercices pour les TPs de CSS, **classés
 1. [css-video-game](https://github.com/tecg-cpw/css-video-game)
 
 ### Positionnement
+1. [css-league](https://github.com/tecg-cpw/css-league)
 1. [css-popking](https://github.com/hepl-cpw/css-popking)
 1. [css-deathray](https://github.com/hepl-cpw/css-deathray)
 1. [css-bwatlet](https://github.com/hepl-cpw/css-bwatlet)
