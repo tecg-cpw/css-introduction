@@ -46,6 +46,7 @@ Vous trouverez ci-dessous la liste des exercices pour les TPs de CSS, **classés
 ### Interrogations et examens : 
 1. [css-newsapp](https://github.com/tecg-cpw/css-newsapp)
 1. [css-interrogation-japan](https://github.com/tecg-cpw/css-interrogation-japan)
+1. [css-interrogation-privacy](https://github.com/tecg-cpw/css-interrogation-privacy)
 
 ### Archives :
 1. [css-apple](https://github.com/hepl-cpw/css-apple)
