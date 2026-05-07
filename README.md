@@ -44,6 +44,7 @@ Vous trouverez ci-dessous la liste des exercices pour les TPs de CSS, **classés
 1. [css-rubber](https://github.com/hepl-cpw/css-rubber)
 
 ### Interrogations et examens : 
+1. [css-indifie](https://github.com/tecg-cpw/css-indifie)
 1. [css-newsapp](https://github.com/tecg-cpw/css-newsapp)
 1. [css-movie-encyclopedia](https://github.com/tecg-cpw/css-movie-encyclopedia)
 1. [css-interrogation-japan](https://github.com/tecg-cpw/css-interrogation-japan)
